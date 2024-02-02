@@ -16,6 +16,12 @@ Beautiful UI: A clean and visually appealing user interface provides an enjoyabl
 Animated Weather Icons: Dynamic icons that reflect the current weather conditions for a visually engaging experience.
 </p>
 
+<H1>Exemple</H1>
+
+https://github.com/luizfpoliveira/WeatherApp_UIKIT/assets/135845834/12bb6402-6a77-4e9c-b762-fbc90d81fb4f
+
+
+
 <H1>Contributing</H1>
 
 <p>Contributions are welcome! If you'd like to contribute to SwiftWeatherApp, please follow the contribution guidelines.</p>
